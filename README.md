@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Belfakhir Zakaria, currently pursuing a degree in Computer Engineering & Artificial Intelligence.<br><br>🔭 I’m actively working on my startup Reservice, focused on innovative tech solutions.<br><br>🌱 I’m currently learning about neural networks and exploring how AI can transform various industries.<br><br>💡 I have a strong focus on machine learning, software development, and entrepreneurship.<br><br>📫 Feel free to reach out if you'd like to collaborate or discuss new ideas!
+👋 Hi, I'm Belfakhir Zakaria. I will begin pursuing a degree in Computer Engineering & Artificial Intelligence later this year, after completing my diploma.<br><br>🔭 I’m actively working on my startup Reservice, focused on innovative tech solutions.<br><br>🌱 I’m currently learning Machine Learning and exploring how AI can transform various industries.<br><br>💡 I have a strong focus on machine learning, software development, and entrepreneurship.<br><br>📫 Feel free to reach out if you'd like to collaborate or discuss new ideas!
 
 
 ## 🌐 Socials:
