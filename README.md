@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Zakaria Belfakhir
 
 - 🎓 Studying Computer Engineering & AI  
-- 💻 Full Stack & Mobile Developer (React, Next.js, Node.js, React Native)  
-- 🤖 AI & Computer Vision enthusiast (Python, TensorFlow, YOLO, OpenCV)  
-- 🌐 Working with AWS, PostgreSQL/Supabase, Tailwind CSS  
+- 💻 Full Stack Developer (React, Next.js, Node.js, React Native)  
+- 🤖 Generative & Agentic AI Engineer (Python, LangChain, LangFlow, Ollama, API REST)   
 - 🚀 Always learning: portfolio → [zakariabelfakhir.com](https://zakariabelfakhir.com)  
 - 📫 Reach me: belfakhirzakaria@gmail.com  
 
